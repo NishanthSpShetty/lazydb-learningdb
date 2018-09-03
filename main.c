@@ -253,7 +253,7 @@ Table * new_table(){
 
 /**
  * main
- * the world start to begin here 
+ * the world seems to begin here 
  */
 void main(int argc, char *argv[]){
         InputBuffer * input_buffer = new_input_buffer();
